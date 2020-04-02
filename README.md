@@ -11,8 +11,10 @@ It sends triggers to the EEG amplifier for when the photos are shown, the partic
 Renames the photos so that the experimental script can pick them. 
 Photos are renamed inside the Rename folder. 
 
-## QuickSum.m
-Summarises participants responses. It's used in the end of the Main_Script to provide a quick summary of the responses. 
+## Some other small functions 
+### QuickSum.m
+Summarises participants responses. It's used in the end of the Main_Script.m to provide a quick summary of the responses. 
 
-## GetParticipantsInfo.m
-Asks participants for demographic information
+### GetParticipantsInfo.m
+Small function that asks participants for demographic information
+
